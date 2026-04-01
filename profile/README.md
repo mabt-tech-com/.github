@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mabt-tech-com/.github/main/images/MABT_LOGO.png" alt="MABT Tech" width="200"/>
+<img src="https://raw.githubusercontent.com/mabt-tech-com/.github/main/images/MABT_LOGO.png" alt="MABT Tech" width="130"/>
 
 <br/>
 
@@ -26,6 +26,12 @@
 
 **Prêt à démarrer votre projet ? Un développeur disponible maintenant pour planifier votre réunion.**<br/>
 *Ready to start? A developer is available right now to book your meeting.*
+
+<br/>
+
+<a href="mailto:volumineux-smash-81@icloud.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/7286/7286142.png" width="90" alt="Email MABT Tech"/>
+</a>
 
 <br/>
 
