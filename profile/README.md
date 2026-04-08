@@ -6,11 +6,13 @@
 
 # MABT Tech
 
-**Agence Digitale & Studio de Développement · Tunis, Tunisie 🇹🇳**
+**Agence Digitale & Studio de Développement · Europe 🇪🇺** <!-- · Tunisia 🇹🇳 -->
 
-[![Location](https://img.shields.io/badge/📍%20Tunis%2C%20Tunisie%20🇹🇳-E4002B?style=for-the-badge&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/📍%20Europe%20🇪🇺-4A90D9?style=for-the-badge&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/✅%20Disponible%20pour%20missions-22C55E?style=for-the-badge&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-mabt--tech--com-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabt-tech-com)
+
+<!-- [![Location](https://img.shields.io/badge/📍%20Tunisia%20🇹🇳-E4002B?style=for-the-badge&logoColor=white)](#) --> 
 
 </div>
 
@@ -47,7 +49,7 @@
 
 <br/><br/>
 
-<sub>📌 <b>Tunis, Tunisie 🇹🇳</b> · Missions locales & internationales · Remote friendly · Réponse sous 24h</sub>
+<sub>📌 <b>Europe 🇪🇺 · Tunisia 🇹🇳</b> · Missions locales & internationales · Remote friendly · Réponse sous 24h</sub>
 
 </div>
 
@@ -66,7 +68,7 @@
 
 ### 👋 Qui sommes-nous ?
 
-**MABT Tech** est une agence digitale et un studio de développement basé à **Tunis, Tunisie 🇹🇳**. Nous concevons et développons des solutions numériques sur mesure pour des entreprises, des startups et des entrepreneurs à travers le monde.
+**MABT Tech** est une agence digitale et un studio de développement basé en **Europe 🇪🇺**, avec un bureau en **Tunisie 🇹🇳**. Nous concevons et développons des solutions numériques sur mesure pour des entreprises, des startups et des entrepreneurs à travers le monde.
 
 Notre équipe pluridisciplinaire réunit des développeurs, des designers UX/UI, des architectes logiciels et des chefs de projet passionnés par la technologie et l'innovation. Que vous soyez une PME cherchant à établir votre présence en ligne, une startup en quête d'une application mobile percutante, ou une entreprise souhaitant optimiser ses processus via un ERP ou une solution SaaS — **nous sommes le partenaire qu'il vous faut.**
 
@@ -241,7 +243,7 @@ Notre équipe pluridisciplinaire réunit des développeurs, des designers UX/UI,
 
 ### 👋 Who are we?
 
-**MABT Tech** is a digital agency and development studio based in **Tunis, Tunisia 🇹🇳**. We design and build tailor-made digital solutions for businesses, startups, and entrepreneurs across the globe.
+**MABT Tech** is a digital agency and development studio based in **Europe 🇪🇺**, with an office in **Tunisia 🇹🇳**. We design and build tailor-made digital solutions for businesses, startups, and entrepreneurs across the globe.
 
 Our multidisciplinary team brings together developers, UX/UI designers, software architects, and project managers — all driven by a passion for technology and innovation. Whether you're an SME looking to establish your online presence, a startup in need of a compelling mobile app, or a company streamlining operations through ERP or SaaS — **we are the right partner for you.**
 
@@ -404,6 +406,6 @@ Our multidisciplinary team brings together developers, UX/UI designers, software
 
 <div align="center">
 
-<sub>© 2026 MABT Tech · Tunis, Tunisia 🇹🇳 · Crafted with 🖤 by our team</sub>
+<sub>© 2026 MABT Tech · Europe 🇪🇺 · Tunisia 🇹🇳 · Crafted with 🖤 by our team</sub>
 
 </div>
