@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mabt-tech-com/.github/main/images/MABT_TECH.svg" alt="MABT Tech" width="130"/> 
+<img src="https://raw.githubusercontent.com/mabt-tech-com/.github/main/images/MABT_TECH.png" alt="MABT Tech" width="130"/> 
 
 <br/>
 
